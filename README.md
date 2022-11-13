@@ -43,4 +43,4 @@ we have 2 directory
 - time - timestamps of records in songplays broken down into specific units
         start_time, hour, day, week, month, year, weekday
         
-![ER diagram](sparkifydb_erd.png)
+![ER diagram](sparkifydb_erd(1).png)
